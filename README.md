@@ -1,6 +1,6 @@
 # What does this sketch do?
 
-### A fun interactable processing sketch that reads data from an text file containing select information about my day-to-day schedule.
+### A fun interactable processing sketch that reads data from a text file containing select information about my day-to-day schedule.
 Click on my personal icon on to play an animation (can be sped up or slowed down) of the day/night cycle over the course of a week in November.
 Discover my questionable sleep schedule and and travel habits through visual clues.
 
